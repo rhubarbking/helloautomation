@@ -41,4 +41,4 @@ runner = HTMLTestRunner.HTMLTestRunner(
 
 
 # run the suite
-runner.run(smoke_tests).
+runner.run(smoke_tests)
